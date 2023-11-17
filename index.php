@@ -1,3 +1,8 @@
+<?php 
+        include "Database.php";
+        include "config.php";
+?>
+
 <!DOCTYPE html>
 <html lang="pl">
 <head>
@@ -6,6 +11,12 @@
     <title>Strona główna</title>
 </head>
 <body>
-    maja lize jaja
+    <?php 
+    
+        $db = new Database(HOST, USER, PASSWORD, MY_DB);
+        $db->connect();
+    
+    ?>
+    
 </body>
 </html>
