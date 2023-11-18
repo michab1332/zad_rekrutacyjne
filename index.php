@@ -56,53 +56,6 @@
 
             $db_init->close_connect();
         ?>
-        <!-- <section>
-            <div class="img_container">
-                <img src="https://images.pexels.com/photos/4323459/pexels-photo-4323459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="oreo cake">
-            </div>
-            <h3>Ciasto Oreo1</h3>
-            <p>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
-        </section>
-
-        <section>
-            <div class="img_container">
-                <img src="https://images.pexels.com/photos/4323459/pexels-photo-4323459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="oreo cake">
-            </div>
-            <h3>Ciasto Oreo2</h3>
-            <p>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
-        </section>
-
-        <section>
-            <div class="img_container">
-                <img src="https://images.pexels.com/photos/4323459/pexels-photo-4323459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="oreo cake">
-            </div>
-            <h3>Ciasto Oreo3</h3>
-            <p>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
-        </section>
-
-        <section>
-            <div class="img_container">
-                <img src="https://images.pexels.com/photos/4323459/pexels-photo-4323459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="oreo cake">
-            </div>
-            <h3>Ciasto Oreo4</h3>
-            <p>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
-        </section>
-
-        <section>
-            <div class="img_container">
-                <img src="https://images.pexels.com/photos/4323459/pexels-photo-4323459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="oreo cake">
-            </div>
-            <h3>Ciasto Oreo5</h3>
-            <p>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
-        </section>
-
-        <section>
-            <div class="img_container">
-                <img src="https://images.pexels.com/photos/4323459/pexels-photo-4323459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="oreo cake">
-            </div>
-            <h3>Ciasto Oreo6</h3>
-            <p>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...</p>
-        </section> -->
     </main>
     </div>
     
