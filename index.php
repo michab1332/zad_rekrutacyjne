@@ -1,5 +1,6 @@
 <?php 
         include "Database.php";
+        include "Post.php";
         include "config.php";
 ?>
 
@@ -12,10 +13,12 @@
 </head>
 <body>
     <?php 
-    
-        $db = new Database(HOST, USER, PASSWORD, MY_DB);
-        $db->connect();
-    
+
+        $db_init = new Database(HOST, USER, PASSWORD, MY_DB);
+        $db_mysqli = $db_init->connect();
+        
+        $post = new Post($db_mysqli);
+        $post->getAllPosts();
     ?>
     
 </body>
