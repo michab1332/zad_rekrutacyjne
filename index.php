@@ -18,7 +18,11 @@
         $db_mysqli = $db_init->connect();
         
         $post = new Post($db_mysqli);
-        $post->getAllPosts();
+        $post->get_all_posts();
+        $post->get_post(1);
+        //$post->delete_post(2);
+
+        $db_init->close_connect();
     ?>
     
 </body>

@@ -25,5 +25,9 @@
                 return $this->db;
             }
         }
+
+        public function close_connect() {
+            $this->db->close();
+        }
     }
 ?>
