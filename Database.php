@@ -21,7 +21,7 @@
             if (mysqli_connect_errno()) {
                 exit("Connect failed: ". mysqli_connect_error());
             } else {
-                echo "Connect aproffed: " . $this->my_db;
+                //echo "Connect aproffed: " . $this->my_db;
                 return $this->db;
             }
         }
